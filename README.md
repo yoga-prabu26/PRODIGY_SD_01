@@ -68,7 +68,31 @@ Developed as part of the Prodigy InfoTech Software Development Internship Progra
 ---
 
 ## 📸 Screenshots
+## 📸 Screenshots
 
+### 🏠 Home Screen
+![Home Screen](screenshots/Home_Screen.png)
+
+### 🌙 Dark Mode
+![Dark Mode](screenshots/Dark_Mode.png)
+
+### 🌡 Celsius Conversion
+![Celsius Conversion](screenshots/Celsius_Converter.png)
+
+### 🔥 Fahrenheit Conversion
+![Fahrenheit Conversion](screenshots/Fahrenheit_Converter.png)
+
+### ❄ Kelvin Conversion
+![Kelvin Conversion](screenshots/kelvin_converter.png)
+
+### 📊 History & Statistics Panel
+![History and Statistics](screenshots/History_and_Statistics_Panel.png)
+
+### ⚠ Invalid Input Validation
+![Invalid Input](screenshots/Invalid_Input.png)
+
+### 📁 CSV Export Feature
+![CSV Export](screenshots/Export_csv.png)
 > Screenshots are located in the `/screenshots` folder.
 
 | Dark Theme | Light Theme |
