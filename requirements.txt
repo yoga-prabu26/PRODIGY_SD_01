@@ -1,0 +1,10 @@
+# ThermoConvert Pro – Python dependencies
+# ----------------------------------------
+# Core UI (Python stdlib – no install needed)
+# tkinter  (included with standard Python distributions)
+
+# Enhanced UI theme (optional but recommended)
+customtkinter>=5.2.0
+
+# No other third-party packages required.
+# All CSV export, data modelling, and math use Python stdlib only.
