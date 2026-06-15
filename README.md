@@ -21,6 +21,8 @@
 ThermoConvert Pro is a **professional desktop application** that converts temperatures across Celsius, Fahrenheit, and Kelvin with real-time validation, intelligent category detection, full conversion history, and a polished dark/light theme UI.
 
 Designed as a portfolio-grade software engineering project, ThermoConvert Pro demonstrates production-level Python development practices including clean OOP architecture, modular file structure, PEP 8 compliance, and a polished modern user experience.
+
+Developed as part of the Prodigy InfoTech Software Development Internship Program.
 ---
 
 ## ✨ Features
