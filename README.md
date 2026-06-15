@@ -193,7 +193,7 @@ converter.py (zero UI dependency)
 B.Tech Computer Science & Business Systems  
 Python Developer & Software Engineering Enthusiast
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://linkedin.com/in/yogaprabu)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/yogaprabue07/)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=flat&logo=github)](https://github.com/YogaPrabu)
 
 ---
