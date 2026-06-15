@@ -68,7 +68,6 @@ Developed as part of the Prodigy InfoTech Software Development Internship Progra
 ---
 
 ## 📸 Screenshots
-## 📸 Screenshots
 
 ### 🏠 Home Screen
 ![Home Screen](screenshots/Home_Screen.png)
